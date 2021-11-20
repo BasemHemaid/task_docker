@@ -1,5 +1,5 @@
 FROM alpine
 
-CMD ["echo" , "Basem Elsaid Mostafa Mohamed Hemaid"]
+CMD ["echo" , "Basem Elsayed Mostafa Mohamed Hemaid"]
 
-CMD ["echo" , "Sec 2 CS"]
+CMD ["echo" , "Sec 1 CS"]
